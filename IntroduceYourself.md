@@ -4,4 +4,4 @@ I’m currently in my last semester of the Computer Science program, so I have b
 
 I’m hoping to use these skills we learn in this class in order to hopefully get a job in web development. My dream job would be making gaming apps or games in general, which would usually require a website in order to give details about them. However, looking more realistically, I would just be happy in learning how to make a well designed website in general, as a lot of employers seemed to be looking for those kinds of skills in general when I went to the job fair last semester. One of my friends also has his own personal website with his resume information too, which I thought was pretty cool, so I was hoping I’d be able to gain the skills in order to make an in-depth site about myself if possible.
 
-![img](http://imgur.com/a/pUVYv)
+![alt text](http://imgur.com/a/pUVYv)
