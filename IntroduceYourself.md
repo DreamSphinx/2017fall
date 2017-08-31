@@ -1,4 +1,6 @@
 ## Eric Whaley's 'Introduce Yourself' Assignment
+Eric Whaley										                                                                                              8/29/17
+Web Programming                                                                                                  Introduce Yourself
 
 I’m currently in my last semester of the Computer Science program, so I have bits of experience in a few different things. My main programming language that I’m most comfortable with is Java, as the main CS courses focus mainly on that. I also have a bit of experience with C from my Assembly class, as well as using it with Flex and Bison during my Compiler Design course. I’ve also played around a little bit with C# in Unity, but I don’t really have enough experience in it to be comfortable with using it. Lastly, I’m hoping to become better with CSS/HTML, as I don’t really have much experience in it (I’m working with a friend to help learn it).
 
