@@ -1,3 +1,4 @@
+
 export class Quote {
     text: string
 }
@@ -6,6 +7,7 @@ export class Player {
     name: string = "Moshe Plotkin";
     quotes: Quote[] = [];
     score: number = 0;
+    
 }
 
 export class Room {
@@ -13,8 +15,5 @@ export class Room {
     dealer: Player;
     picture: string;
     quotes: Quote[] = [];
+    chosenQuote?: number = null;
 }
-
-
-// Controller
-
